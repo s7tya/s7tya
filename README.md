@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018db137-b7a5-41c8-9041-f284d1ae9f16.svg)](https://wakatime.com/@018db137-b7a5-41c8-9041-f284d1ae9f16)
+
 <p align="center">
   CS Student based in Japan
 </p>
